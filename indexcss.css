@@ -27,7 +27,7 @@ body
     max-width:960px;  /*缩放大小*/
 
     /*背景图片*/
-    background:url("images/background.png");
+    background:url("images/background.jpg");
     background-size: 100%;
     background-attachment: fixed;
 }
